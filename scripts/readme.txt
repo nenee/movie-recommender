@@ -1,0 +1,2 @@
+1. cleaning.py: contains all the data cleanup methods used; the original datasets are provided and the script can be ran to produce new daset files; however the ones used in the recommender system are also provided and should be used in the script below.
+2. movie_recommender.py contains the slope one algorithm to produce recommendations; once it's ran, given the user input it prints out results.
