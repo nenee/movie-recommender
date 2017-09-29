@@ -1,10 +1,7 @@
 A Netflix-Style Movie Recommender project 
 ==================
-source code and cleaned data files.
+item-to-item based collaborative filtering applied to generate a list of suggested movies 
 ----------------------------
-
-### The Idea :
-Use item-to-item based collaborative filtering in order to recommend a list of movies to an existing user.
 
 ### Process :
 - Datasets were tidied up via Pandas.
