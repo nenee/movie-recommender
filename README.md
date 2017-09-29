@@ -1,6 +1,8 @@
 # A Netflix-Style movie recommender project 
+
 ----------------------------
 source code and cleaned data files.
+
 ----------------------------
 
 ### The Idea :
