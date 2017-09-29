@@ -1,6 +1,4 @@
-# movie-recommender
-
-A Netflix-Style movie recommender project (Data Analytics Coursework)
+# A Netflix-Style movie recommender project (Data Analytics Coursework)
 ==================
 source code and cleaned data files.
 ----------------------------
